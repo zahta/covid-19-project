@@ -1,7 +1,8 @@
-# <center> Prediction and Spread Visualization of the Novel Coronavirus Disease COVID-19 Using Machine Learning </center>
-#### <center> by [Zahra Taheri](https://github.com/zata213/) - July 2020 </center>
- 
-<center> <img  src=https://wineamerica.org/wp-content/uploads/2020/03/Covid-19-Atlantic.jpeg width="500"/> </center> 
+# Prediction and Spread Visualization of the Novel Coronavirus Disease                                                 COVID-19 Using Machine Learning
+#### by [Zahra Taheri](https://github.com/zata213/) - July 2020 
+<p align="center">
+   <img  src=https://wineamerica.org/wp-content/uploads/2020/03/Covid-19-Atlantic.jpeg width="500"/>
+</p>
 
  <br>
  
