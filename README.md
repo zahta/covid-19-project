@@ -1,5 +1,4 @@
-# Prediction and Spread Visualization of the Novel Coronavirus Disease                                                 COVID-19 Using Machine Learning
-#### July 2020 
+# Prediction and Spread Visualization of the Novel Coronavirus Disease COVID-19 Using Machine Learning
 <p align="center">
    <img  src=https://wineamerica.org/wp-content/uploads/2020/03/Covid-19-Atlantic.jpeg width="500"/>
 </p>
@@ -21,3 +20,5 @@ In this project, we have performed Linear regression, Support vector machine, Mu
 - More information: [World Health Organization (WHO)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 - Image source: https://wineamerica.org/wp-content/uploads/2020/03/Covid-19-Atlantic.jpeg
 <br>
+
+#### July 2020
