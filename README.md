@@ -20,4 +20,4 @@ In this project, we are going to perform Linear regression, Support vector machi
 - More information: [World Health Organization (WHO)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 - Image source: https://wineamerica.org/wp-content/uploads/2020/03/Covid-19-Atlantic.jpeg
 
-#### By [Zahra Taheri](https://github.com/zata213)-July 2020
+#### By [Zahra Taheri](https://github.com/zahta) July 2020
