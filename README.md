@@ -11,9 +11,9 @@ Machine learning has numerous tools  that can be used for visualization and pred
 
 The global impact of the outbreak on various aspects of life has been the focus of many studies. On the other hand, a pandemic can be forecast by considering a variety of parameters such as the impact of environmental factors, quarantine, age, gender and a lot more. 
 
-The forecasting accuracy depends on the availability of proper data to base its predictions and provide an estimate of uncertainty. A challenge to use machine learning techniques for the current outbreak is that the datasets are not yet standardized by any standardization organization and the statistical anomalies are not considered. Also, the appropriate selection of parameters and the selection of the best machine learning model for prediction are other challenges involved in training a model. 
+The accuracy of forecasting depends on the availability of proper data to base its predictions and provide an estimate of uncertainty. A challenge to use machine learning techniques for the current outbreak is that any standardization organization does not yet standardize the datasets and the statistical anomalies are not considered. Also, the appropriate selection of parameters and the selection of the best machine learning model for prediction are other challenges involved in training a model. 
 
-In this project, we are going to perform Linear regression, Support vector machine, Multilayer perceptron, Ensemble methods, etc., on the Johns Hopkins University's COVID-19 data to anticipate the future effects of COVID-19 pandemic in Iran and some other countries. Moreover, we are going to study the impact of some parameters such as geographic conditions, economic statistics, population statistics, life expectancy, etc., in prediction of COVID-19 spread.
+The main focus of this project is to visualize the spreading of the Coronavirus country-wise and globally and to perform machine learning algorithms, time series algorithms, and deep learning algorithms on the COVID-19 data to anticipate the future effects of the pandemic. Moreover, we study the impact of some parameters such as geographic conditions, economic statistics, population statistics, life expectancy, etc., in the prediction of COVID-19 spread.
 <br>
 
 - Data source: [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
